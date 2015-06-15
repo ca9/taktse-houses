@@ -8,7 +8,7 @@ This project was started under the guidance of Mr. Aditya Gupta, and is a first 
 * Abhishek Subba <abhishek.subba@taktse.org>,
 * Sonam Ugay <sonam.ugay@taktse.org>,
 * Amit Agarwal <amit.agarwal@taktse.org>, and
-* Bhibhuti Rai <bhibhuti.rai@taktse.org>
+* Bhibhuti Rai <bibhu.mahajan@taktse.org>
 
 They are being mentored by:
 
