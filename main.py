@@ -11,8 +11,9 @@ def hello():
     """Return a friendly HTTP greeting."""
     return "Hello World! \
 	<br \> This is Aditya checking in. \
-	<br  \> this is bibhu . \
-	<br \>this is bibhu again "
+	<br  \> this is bibhu. \
+	<br \> this is Abhishek Subba.
+	<br \> a piece of land surrounded by water on all four sides."
 
 
 @app.errorhandler(404)
