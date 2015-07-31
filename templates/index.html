@@ -12,7 +12,7 @@
 		<meta name="keywords" content="" />
 		<link href="{{ url_for('static', filename='style-1000px.css')}}" rel='stylesheet' type='text/css'>
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
-        <script script type="text/javascript" src="{{url_for('static', filename='something.css')}}"></script>
+        <script script type="text/javascript" src="{{url_for('static', filename='css/something.css')}}"></script>
 		<script script type="text/javascript" src="{{ url_for('static', filename='js/skel.min.js')}}"></script>
 		<script script type= "text/javascript" src="{{url_for('static', filename='js/skel-panels.min.js')}}"></script>
 		<script script type= "text/javascript" src="{{url_for('static', filename='js/init.js')}}"></script>
@@ -59,7 +59,7 @@
 				<div class="row">
 					<div class="3u">
 						<section>
-							<a href="#" class="image full"><img src="images/pics01.jpg" alt="" /></a>
+							<a href="#" class="image full"><img src="{{url_for('static', filename='images/pics01.jpg')}}" alt="" /></a>
 							<p>Quisque dictum. Pellentesque viverra  enim. Integer nisl risus, sagittis convallis, rutrum id, elementum.</p>
 							<a href="#" class="button">Read More</a>
 						</section>
